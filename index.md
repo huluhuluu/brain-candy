@@ -31,7 +31,7 @@ math: true
 | 文章 | 说明 | 状态 |
 |------|------|------|
 | [蓝眼睛岛民悖论](/p/blue-eyed-islander-paradox/) | 共同知识与递归推理 | ✅ 完成 |
-| [疯狂乘客问题](/p/mad-passenger-problem/) | 概率论与条件概率 | ✅ 完成 |
+| [飞机座位分配概率](/p/airplane-seat-probability/) | 优雅的概率谜题 | ✅ 完成 |
 
 ---
 
