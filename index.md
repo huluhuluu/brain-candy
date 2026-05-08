@@ -7,6 +7,8 @@ description: "趣味博弈、逻辑、悖论等思维糖果"
 slug: "brain-candy"
 tags: ["sharing"]
 categories: ["sharing"]
+build:
+  list: never
 comments: true
 math: true
 ---
