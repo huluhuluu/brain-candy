@@ -32,8 +32,8 @@ math: true
 
 | 文章 | 说明 | 状态 |
 |------|------|------|
-| [蓝眼睛岛民悖论](/p/blue-eyed-islander-paradox/) | 共同知识与递归推理 | ✅ 完成 |
-| [飞机座位分配概率](/p/airplane-seat-probability/) | 优雅的概率谜题 | ✅ 完成 |
+| [蓝眼睛岛民悖论](blog/blue-eyed-islander-paradox/index.md) | 共同知识与递归推理 | ✅ 完成 |
+| [飞机座位分配概率](blog/airplane-seat-probability/index.md) | 优雅的概率谜题 | ✅ 完成 |
 
 ---
 
@@ -43,7 +43,7 @@ math: true
 
 | 文章 | 说明 | 状态 |
 |------|------|------|
-| [策梅洛定理与必赢策略](/p/zermelo-game-theory/) | 完美信息博弈的最优策略 | ✅ 完成 |
+| [策梅洛定理与必赢策略](blog/zermelo-game-theory/index.md) | 完美信息博弈的最优策略 | ✅ 完成 |
 
 ---
 
